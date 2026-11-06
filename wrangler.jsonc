@@ -1,0 +1,12 @@
+{
+  "name": "snake-tech-jadid",
+  "compatibility_date": "2026-05-01",
+  "assets": {
+    "directory": "./public/",
+    "not_found_handling": "single-page-application"
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  }
+}
